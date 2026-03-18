@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "sunrise" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "contrast" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Daniel Hermossillo-Gutiérrez"
 title_separator          : "-"
 name                     : &name "Daniel Hermossillo-Gutiérrez"
@@ -23,7 +23,7 @@ repository               : "dhermosillogutierrez/dhermosillogutierrez.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : ""
   name             : "Daniel Hermossillo-Gutiérrez"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Student"
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : # "academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
